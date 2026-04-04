@@ -107,6 +107,5 @@ print(f"\n{'='*65}")
 print("KEY INSIGHT")
 print(f"{'='*65}")
 print(f"The delta column tells you the exact AUC points that were")
-print(f"STOLEN by the random shuffle. A recruiter or interviewer")
-print(f"who sees this chart immediately knows you understand one")
-print(f"of the most common and costly mistakes in production ML.")
+print(f"STOLEN by the random shuffle.")
+
